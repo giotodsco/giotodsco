@@ -62,15 +62,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fundação Santo 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=giotodsco&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giotodsco&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
 ### 📬 Contato
 
 <p>
