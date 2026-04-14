@@ -81,7 +81,7 @@ Atualmente aprofundando conhecimentos em **Spring Security**, **JWT** e **Docker
         <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/giotodsco/gamehub">
+        <a href="https://github.com/giotodsco/gamehub-api">
           <img src="https://img.shields.io/badge/Ver%20repositório-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
@@ -97,7 +97,7 @@ Atualmente aprofundando conhecimentos em **Spring Security**, **JWT** e **Docker
         <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/giotodsco/espaco-biodiversidade">
+        <a href="https://github.com/giotodsco/agendamentosBioterio">
           <img src="https://img.shields.io/badge/Ver%20repositório-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
@@ -115,7 +115,7 @@ Atualmente aprofundando conhecimentos em **Spring Security**, **JWT** e **Docker
         <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/giotodsco/agendamento-medico">
+        <a href="https://github.com/giotodsco/AgendamentoMedico">
           <img src="https://img.shields.io/badge/Ver%20repositório-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
