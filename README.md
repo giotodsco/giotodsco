@@ -21,6 +21,7 @@
 ### 🧑‍💻 Sobre mim
 
 Sou desenvolvedor Full Stack cursando **Análise e Desenvolvimento de Sistemas** na Fundação Santo André. Tenho experiência com back-end, front-end, banco de dados e documentação — sempre focado em construir soluções bem estruturadas e código limpo.
+Base sólida em **Java**, **Spring**, **Banco de dados**, **Documentação** e criação de **API's**
 
 Atualmente aprofundando conhecimentos em **Spring Security**, **JWT** e **Docker**.
 
@@ -124,10 +125,6 @@ Atualmente aprofundando conhecimentos em **Spring Security**, **JWT** e **Docker
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=giotodsco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giotodsco&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=giotodsco&theme=tokyonight&hide_border=true" />
