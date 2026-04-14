@@ -1,18 +1,28 @@
-<h1 align="center">Olá, eu sou o Giovanni 👋</h1>
+<h1 align="center">Fala aí! Eu sou o Giovanni 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack apaixonado por construir sistemas que fazem sentido — do banco de dados à interface.
+  Desenvolvedor Full Stack • ADS @ Fundação Santo André • Mauá, SP 🇧🇷
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="/cdn-cgi/l/email-protection#6d3e28383228202c2421">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/giotodsco">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🧑‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fundação Santo André, com experiência prática em desenvolvimento web full stack. Gosto de criar soluções bem estruturadas, com código limpo e arquitetura que escala, principalmente com minha linguagem favorita **Java**
+Sou desenvolvedor Full Stack cursando **Análise e Desenvolvimento de Sistemas** na Fundação Santo André. Tenho experiência com back-end, front-end, banco de dados e documentação — sempre focado em construir soluções bem estruturadas e código limpo.
 
-- 🎓 Cursando ADS na **Centro Universitário Fundação Santo André**
-- 💼 Trabalhando em projetos com **Java**, **Spring Boot**, **Docker** e **SQL**
-- 🚀 Sempre aprendendo algo novo
+Atualmente aprofundando conhecimentos em **Spring Security**, **JWT** e **Docker**.
 
 ---
 
@@ -21,56 +31,109 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fundação Santo 
 **Back-end**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" title="Spring Boot" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=java" height="55" title="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" height="55" title="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=php" height="55" title="PHP" />
 </p>
 
 **Front-end**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" height="55" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="55" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" title="JavaScript" />
 </p>
 
 **Banco de dados**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" title="MySQL" />
 </p>
 
 **Ferramentas**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" title="Git" />
+  <img src="https://skillicons.dev/icons?i=docker" height="55" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=postman" height="55" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=maven" height="55" title="Maven" />
+  <img src="https://skillicons.dev/icons?i=idea" height="55" title="IntelliJ IDEA" />
 </p>
 
 ---
 
 ### 📌 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| 🎮 [GameHub](https://github.com/giotodsco/gamehub) | API REST de catálogo de jogos com autenticação JWT | Spring Boot, PostgreSQL, JWT, Docker, API |
-| 🏥 [Agendamento Médico](https://github.com/giotodsco/agendamento-medico) | Sistema de agendamento de consultas médicas | Java, Spring, MySQL, API |
-| 🌿 [Espaço Biodiversidade](https://github.com/giotodsco/espaco-biodiversidade) | Sistema de agendamento de visitas ao espaço de biodiversidade | PHP, MySQL, HTML/CSS, JS |
-
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎮 GameHub</h3>
+      <p align="center">
+        API REST de catálogo de jogos com autenticação JWT, controle de categorias e usuários.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/giotodsco/gamehub">
+          <img src="https://img.shields.io/badge/Ver%20repositório-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌿 Espaço Biodiversidade</h3>
+      <p align="center">
+        Sistema de agendamento de visitas com painel admin, confirmação por e-mail e gestão de horários.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/giotodsco/espaco-biodiversidade">
+          <img src="https://img.shields.io/badge/Ver%20repositório-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3 align="center">🏥 Agendamento Médico</h3>
+      <p align="center">
+        Sistema web de agendamento de consultas médicas com cadastro de pacientes e controle de agenda.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/giotodsco/agendamento-medico">
+          <img src="https://img.shields.io/badge/Ver%20repositório-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📬 Contato
+### 📊 GitHub Stats
 
-<p>
-  <a href="[https://linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/giovanni-todesco-7416943a4/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:todescogiovanni01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=giotodsco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giotodsco&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=giotodsco&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Feito com foco, java e muito café</sub>
-</p>
+  <sub>Feito com foco e café ☕ • <a href="https://github.com/giot
