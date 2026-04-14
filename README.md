@@ -1,16 +1,18 @@
-<h1 align="center">Fala aí! Eu sou o Giovanni 👋</h1>
+<h1 align="center">Opa tranquilo? Eu sou o Giovanni 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack • ADS @ Fundação Santo André • Mauá, SP 🇧🇷
+  Desenvolvedor Full Stack • Analise e Desenvolvimento de Sistemas
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/giovanni-todesco-7416943a4/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="/cdn-cgi/l/email-protection#6d3e28383228202c2421">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
   <a href="https://github.com/giotodsco">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
